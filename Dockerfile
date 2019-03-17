@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-slim
+FROM openjdk:8-jdk-alpine
 
 LABEL "maintainer"="Ramil Khamitov <qwertyppp11@gmail.com>"
 LABEL "repository"="https://github.com/mrramych/gradle-actions"
